@@ -1,0 +1,597 @@
+{
+    "source": "maps_selfsuggest_vector_misspell",
+    "suggestions": [
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Краснодарский Край, город Краснодар",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 45.035469,
+                        "lon": 38.975311
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 45.125488,
+                            "lon": 38.848354
+                        },
+                        "rightUpperCorner": {
+                            "lat": 44.94545,
+                            "lon": 39.102268
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Краснодарский Край",
+                        "uid": "d00e1013-16bd-4c09-b3d5-3cb09fc54bd8"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Краснодар",
+                        "uid": "7dfa745e-aa19-4688-b121-b655c11e482f"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": ""
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодар, Краснодарский Край",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Новосибирская Область, город Новосибирск, Краснодарская улица",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 54.949841,
+                        "lon": 82.981895
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 54.948437,
+                            "lon": 82.979462
+                        },
+                        "rightUpperCorner": {
+                            "lat": 54.951439,
+                            "lon": 82.985588
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Новосибирская Область",
+                        "uid": "1ac46b49-3209-4814-b7bf-a509ea1aecd9"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Новосибирск",
+                        "uid": "8dea00e3-9aab-4d8e-887c-ef2aaa546456"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарская улица"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарская улица, Новосибирск, Новосибирская Область",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Новосибирская Область, город Новосибирск, Краснодарский переулок",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 54.946884,
+                        "lon": 82.986008
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 54.945271,
+                            "lon": 82.981468
+                        },
+                        "rightUpperCorner": {
+                            "lat": 54.948196,
+                            "lon": 82.988983
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Новосибирская Область",
+                        "uid": "1ac46b49-3209-4814-b7bf-a509ea1aecd9"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Новосибирск",
+                        "uid": "8dea00e3-9aab-4d8e-887c-ef2aaa546456"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарский переулок"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарский переулок, Новосибирск, Новосибирская Область",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Краснодарский Край, Горный Лоо",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 55.329056,
+                        "lon": 83.543175
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 55.324059,
+                            "lon": 83.53466
+                        },
+                        "rightUpperCorner": {
+                            "lat": 55.333618,
+                            "lon": 83.550705
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Краснодарский Край",
+                        "uid": ""
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Горный Лоо",
+                        "uid": "5989b7b6-5c8f-589d-bf43-6aa25886c586"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": ""
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Горный Лоо, Краснодарский Край",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Алтайский Край, город Барнаул, Краснодарская улица",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 53.353931,
+                        "lon": 83.691124
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 53.350941,
+                            "lon": 83.688965
+                        },
+                        "rightUpperCorner": {
+                            "lat": 53.35696,
+                            "lon": 83.693703
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Алтайский Край",
+                        "uid": "8276c6a1-1a86-4f0d-8920-aba34d4cc34a"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Барнаул",
+                        "uid": "d13945a8-7017-46ab-b1e6-ede1e89317ad"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарская улица"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарская улица, Барнаул, Алтайский Край",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Краснодарский Край, город Сочи",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 43.585526,
+                        "lon": 39.723061
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 43.67556,
+                            "lon": 39.599201
+                        },
+                        "rightUpperCorner": {
+                            "lat": 43.495491,
+                            "lon": 39.84692
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Краснодарский Край",
+                        "uid": "d00e1013-16bd-4c09-b3d5-3cb09fc54bd8"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Сочи",
+                        "uid": "79da737a-603b-4c19-9b54-9114c96fb912"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": ""
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Сочи, Краснодарский Край",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Кемеровская область - Кузбасс, город Ленинск-Кузнецкий, Краснодарский переулок",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 54.658089,
+                        "lon": 86.187889
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 54.655949,
+                            "lon": 86.185265
+                        },
+                        "rightUpperCorner": {
+                            "lat": 54.659782,
+                            "lon": 86.191193
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Кемеровская область - Кузбасс",
+                        "uid": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Ленинск-Кузнецкий",
+                        "uid": "cf600ae8-e376-42ae-bf7c-5aa1875dcd28"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарский переулок"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарский переулок, Ленинск-Кузнецкий, Кемеровская область - Кузбасс",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Кемеровская область - Кузбасс, город Ленинск-Кузнецкий, Краснодарская улица",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 54.643616,
+                        "lon": 86.222908
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 54.63728,
+                            "lon": 86.210434
+                        },
+                        "rightUpperCorner": {
+                            "lat": 54.649208,
+                            "lon": 86.237038
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Кемеровская область - Кузбасс",
+                        "uid": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Ленинск-Кузнецкий",
+                        "uid": "cf600ae8-e376-42ae-bf7c-5aa1875dcd28"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарская улица"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарская улица, Ленинск-Кузнецкий, Кемеровская область - Кузбасс",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Кемеровская область - Кузбасс, город Анжеро-Судженск, Краснодарский переулок",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 56.065041,
+                        "lon": 86.035645
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 56.063805,
+                            "lon": 86.033928
+                        },
+                        "rightUpperCorner": {
+                            "lat": 56.066006,
+                            "lon": 86.037773
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Кемеровская область - Кузбасс",
+                        "uid": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Анжеро-Судженск",
+                        "uid": "8a5314a4-903e-475c-a4db-8f03db3b793f"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарский переулок"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарский переулок, Анжеро-Судженск, Кемеровская область - Кузбасс",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        },
+        {
+            "address": {
+                "source": "maps_selfsuggest_vector_misspell",
+                "fullText": "Кемеровская область - Кузбасс, город Прокопьевск, Краснодарский",
+                "postalCode": "",
+                "geometry": {
+                    "point": {
+                        "lat": 53.924442,
+                        "lon": 86.780144
+                    },
+                    "viewPort": {
+                        "leftLowerCorner": {
+                            "lat": 53.923481,
+                            "lon": 86.778511
+                        },
+                        "rightUpperCorner": {
+                            "lat": 53.925404,
+                            "lon": 86.781769
+                        }
+                    }
+                },
+                "timezone": "",
+                "components": {
+                    "country": {
+                        "name": "Россия",
+                        "uid": "42fb1c32-0cfe-5c96-9fb5-7f8e8449f28c"
+                    },
+                    "region": {
+                        "name": "Кемеровская область - Кузбасс",
+                        "uid": "393aeccb-89ef-4a7e-ae42-08d5cebc2e30"
+                    },
+                    "district": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "city": {
+                        "name": "Прокопьевск",
+                        "uid": "2d8b9d01-1c4f-4987-8a0b-1eb5080c1f38"
+                    },
+                    "settlement": {
+                        "name": "",
+                        "uid": ""
+                    },
+                    "street": {
+                        "name": "Краснодарский"
+                    },
+                    "house": {
+                        "number": ""
+                    }
+                },
+                "debugInfo": null,
+                "uid": "",
+                "shortAddress": ""
+            },
+            "displayAddressValue": "Краснодарский, Прокопьевск, Кемеровская область - Кузбасс",
+            "emptyGeometry": false,
+            "pvzIds": [],
+            "trustCoord": true
+        }
+    ],
+    "sourceQuery": "краснодар",
+    "cacheType": "none"
+}

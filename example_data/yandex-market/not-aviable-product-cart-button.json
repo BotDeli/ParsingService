@@ -1,0 +1,140 @@
+{
+    "viewItem": {},
+    "views": {},
+    "buyOption": {},
+    "bnplInfo": {},
+    "bnplPlanInfo": {},
+    "currentUser": {
+        "currentUser": {
+            "id": "56342641763671486",
+            "isAuth": false,
+            "region": {
+                "id": 213,
+                "name": "Москва",
+                "linguistics": {
+                    "ablative": "",
+                    "accusative": "Москву",
+                    "dative": "Москве",
+                    "directional": "",
+                    "genitive": "Москвы",
+                    "instrumental": "Москвой",
+                    "locative": "",
+                    "nominative": "Москва",
+                    "preposition": "в",
+                    "prepositional": "Москве"
+                },
+                "country": 225,
+                "info": {
+                    "id": 213,
+                    "name": "Москва",
+                    "country": 225,
+                    "linguistics": {
+                        "ablative": "",
+                        "accusative": "Москву",
+                        "dative": "Москве",
+                        "directional": "",
+                        "genitive": "Москвы",
+                        "instrumental": "Москвой",
+                        "locative": "",
+                        "nominative": "Москва",
+                        "preposition": "в",
+                        "prepositional": "Москве"
+                    },
+                    "data": {
+                        "id": 213,
+                        "type": 6,
+                        "parent_id": 1,
+                        "capital_id": 0,
+                        "geo_parent_id": 0,
+                        "city_id": 213,
+                        "name": "Москва",
+                        "native_name": "",
+                        "iso_name": "RU-MOW",
+                        "is_main": true,
+                        "en_name": "Moscow",
+                        "short_en_name": "MSK",
+                        "phone_code": "495 499",
+                        "phone_code_old": "095",
+                        "zip_code": "",
+                        "population": 13149803,
+                        "synonyms": "Moskau, Moskva, Chertanovo",
+                        "latitude": 55.755863,
+                        "longitude": 37.6177,
+                        "latitude_size": 0.878654,
+                        "longitude_size": 1.164423,
+                        "zoom": 10,
+                        "tzname": "Europe/Moscow",
+                        "official_languages": "ru",
+                        "widespread_languages": "ru",
+                        "suggest_list": [],
+                        "is_eu": false,
+                        "iso_alpha3": "",
+                        "services_names": [
+                            "bs",
+                            "yaca",
+                            "weather",
+                            "afisha",
+                            "maps",
+                            "tv",
+                            "ad",
+                            "etrain",
+                            "subway",
+                            "delivery",
+                            "route"
+                        ]
+                    },
+                    "isCapital": true
+                },
+                "zoom": 10,
+                "location": {
+                    "longitude": 37.6177,
+                    "latitude": 55.755863
+                },
+                "isCapital": true,
+                "source": 30
+            },
+            "uid": "",
+            "yandexuid": "56342641763671486",
+            "publicId": "",
+            "loginId": "",
+            "birthdateFormated": null,
+            "firstName": "",
+            "lastName": "",
+            "emails": [],
+            "tld": "ru",
+            "avatarId": null,
+            "settings": {
+                "resultsOnPage": 48
+            },
+            "isAdult": false
+        }
+    },
+    "url": {
+        "current": {
+            "id": "current",
+            "entity": "url",
+            "protocol": "https:",
+            "slashes": true,
+            "auth": null,
+            "host": "market.yandex.ru",
+            "port": null,
+            "hostname": "market.yandex.ru",
+            "hash": null,
+            "search": "?publicId=5q7u00hwfj5pdn319jx8necu6m&cpa=1&hid=91302&utm_medium=sharing&ogV=32&nid=18071697",
+            "query": "publicId=5q7u00hwfj5pdn319jx8necu6m&cpa=1&hid=91302&utm_medium=sharing&ogV=32&nid=18071697",
+            "pathname": "/card/nabor-dlya-prigotovleniya-nastoyek-podarok-muzhchine-na-den-rozhdeniya/102419868318",
+            "path": "/card/nabor-dlya-prigotovleniya-nastoyek-podarok-muzhchine-na-den-rozhdeniya/102419868318?publicId=5q7u00hwfj5pdn319jx8necu6m&cpa=1&hid=91302&utm_medium=sharing&ogV=32&nid=18071697",
+            "href": "https://market.yandex.ru/card/nabor-dlya-prigotovleniya-nastoyek-podarok-muzhchine-na-den-rozhdeniya/102419868318?publicId=5q7u00hwfj5pdn319jx8necu6m&cpa=1&hid=91302&utm_medium=sharing&ogV=32&nid=18071697"
+        }
+    },
+    "isUltima": {},
+    "m2bProperties": {},
+    "tld": {
+        "tld": {
+            "currentUser": {
+                "id": "currentUser",
+                "value": "ru"
+            }
+        }
+    }
+}

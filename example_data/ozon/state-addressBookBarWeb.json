@@ -1,0 +1,70 @@
+{
+    "customCell": {
+        "actionMode": "individual",
+        "cells": [
+            {
+                "type": "button",
+                "button": {
+                    "text": "Уфа",
+                    "theme": "empty",
+                    "size": "m",
+                    "action": {
+                        "behavior": "BEHAVIOR_TYPE_COMPOSER_NESTED_PAGE",
+                        "link": "/modal/addressbook?set_sm=1",
+                        "id": "addressbook",
+                        "params": {
+                            "closeButtonPosition": "outside"
+                        }
+                    },
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "0"
+                        }
+                    },
+                    "textStyle": "tsBodyControl400Small",
+                    "textColor": "textSecondary"
+                },
+                "shrinkPosition": "right"
+            },
+            {
+                "type": "button",
+                "button": {
+                    "text": "Укажите адрес",
+                    "theme": "inline",
+                    "size": "m",
+                    "action": {
+                        "behavior": "BEHAVIOR_TYPE_COMPOSER_NESTED_PAGE",
+                        "link": "/modal/addressbook?set_sm=1",
+                        "id": "addressbook",
+                        "params": {
+                            "closeButtonPosition": "outside"
+                        }
+                    },
+                    "trackingInfo": {
+                        "click": {
+                            "actionType": "click",
+                            "key": "1"
+                        }
+                    }
+                }
+            }
+        ],
+        "separator": {
+            "text": "•",
+            "textStyle": "tsBodyControl400Small",
+            "textColor": "textSecondary"
+        }
+    },
+    "trackingInfo": {
+        "view": {
+            "actionType": "view",
+            "key": "2"
+        }
+    },
+    "geoAction": {
+        "behavior": "BEHAVIOR_TYPE_COMPOSER_ACTION",
+        "link": "v2/addressBookBarTooltip?prv=pdp&set_sm=1"
+    },
+    "addressBookBarRedesign": true
+}

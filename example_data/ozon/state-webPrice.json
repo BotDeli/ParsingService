@@ -1,0 +1,42 @@
+{
+    "isAvailable": true,
+    "cardPrice": "387 ₽",
+    "price": "418 ₽",
+    "originalPrice": "3 499 ₽",
+    "showOriginalPrice": true,
+    "link": "/modal/withoutOzonAccount",
+    "lexemes": {
+        "currency": "Валюта",
+        "includeVatTextMobile": "Цена с НДС",
+        "moreText": "Подробнее",
+        "notRefundVatText": "НДС не возмещается",
+        "withOzonCard": "c Ozon Картой",
+        "withoutOzonCard": "без Ozon Карты",
+        "withoutVatText": "без НДС",
+        "withoutVatTextCapitalize": "Без НДС",
+        "withoutVatTextMobile": "Цена без НДС"
+    },
+    "trackingInfo": {
+        "view": {
+            "actionType": "view",
+            "key": "QktJZREkBcAGn79pFEQ7rX7sOvyDzycjyWj4Xs213nlk"
+        }
+    },
+    "trackingInfoOzonBank": {
+        "click": {
+            "actionType": "click",
+            "key": "jYtZNOMnlIzQV3m9CApXOApTKJD67QHYZ5poPtvGj7GQ"
+        },
+        "view": {
+            "actionType": "view",
+            "key": "jYtZNOMnlIzQV3m9CApXOApTKJD67QHYZ5poPtvGj7GQ"
+        }
+    },
+    "params": {
+        "ladderPriceHide": false,
+        "showPpu": true,
+        "withOzonAccount": "/modal/withOzonAccount",
+        "withOzonAccountLegal": "/modal/OzoneAccountForLegal",
+        "withoutOzonAccount": "/modal/withoutOzonAccount"
+    }
+}

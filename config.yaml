@@ -1,0 +1,34 @@
+logger:
+  filepath: "./logs.log"
+  is_debug: False
+
+metrics:
+  client_port: 9000
+
+storage:
+  postgresql:
+      database: postgres
+      user: kare
+      password: 
+      host: 127.0.0.1
+      port: 5432
+
+server:
+  host: "127.0.0.1"
+  port: 8000
+
+parsers:
+  all:
+    cycle_min_cooldown_ms: 200
+    cycle_max_cooldown_ms: 1000
+    request_min_cooldown_ms: 100
+    request_max_cooldown_ms: 500
+  master:
+    max_timeout_thread_determinate_sec: 5
+  ozon:
+    chrome_version: 142
+    waiting_element_loading_sec: 2
+    page_load_timeout_sec: 10
+    page_load_cooldown_sec: 1
+  wildberries:
+    chrome_version: 142
